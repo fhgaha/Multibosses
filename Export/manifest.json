@@ -1,0 +1,9 @@
+{
+  "name": "Multibosses",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Get half of your current health at the start of the night but fight two bosses at once",
+  "dependencies": [
+    "BepInEx-BepInExPack_x86-5.4.2100"
+  ]
+}
